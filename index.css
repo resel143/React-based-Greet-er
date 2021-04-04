@@ -1,0 +1,24 @@
+.Greeting-box{
+    display: flex;
+    background-color:rgb(77, 245, 10);
+    height: 150px;
+    width: 450px;
+    margin-top: 225px;
+    margin-left: 475px;
+    border-radius: 7px;
+    text-align: center;
+    padding-top: 40px;
+}
+h1{
+    color:blue;
+    font-size: 2.5rem;
+}
+p{
+    padding-top: 22px;
+    padding-left: 6px;
+    font-size: 3rem;
+    font-family: 'Recursive', sans-serif;
+}
+body{
+    background-color: aqua;
+}
